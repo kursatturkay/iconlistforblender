@@ -3,8 +3,7 @@ Lists blender icons by name
 
 
 
-Only for Blender developers.
-it lists all icons of blender so you can observe and allows you to see icon name corresponding to icon images. filter enabled.
+Exclusively for Blender developers, this tool lists all Blender icons, allowing you to view and identify the icon names corresponding to each icon image. It also includes a filtering option.
 
 
 ![Image description](preview1.png)
