@@ -3,9 +3,9 @@ schema_version = "1.0.0"
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
 id = "iconlist"
-version = "2024.10.18"
+version = "2024.10.20"
 name = "iconlist"
-tagline = "Lists icons by name"
+tagline = "Location: Text Editor ➤Side Bar ➤Fables Alive Games➤Command Box"
 maintainer = "https://fablesalive.gumroad.com"
 # Supported types: "add-on", "theme"
 type = "add-on"
